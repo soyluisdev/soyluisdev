@@ -1,6 +1,3 @@
-ProfileMe.dev
-
-
 INTRODUCTION
 SKILLS
 SOCIALS
