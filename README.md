@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Industrial/poduct designer & developer
 --------------------------------------
 
-Hi, nice to meet you! I'm an industrial designer fascinated by technology and its developments from a very young age. I love working on a broad spectrum of projects and enjoy learning new technologies and frameworks to discover more about this ever-evolving field. I'm very hyperactive, so I thrive on both the logical aspects of a project and the hands-on process of creating, from research to designing and building or coding things.
+Hi, nice to meet you! I'm an industrial designer and solopreneur fascinated by technology and its developments from a very young age. I love working on a broad spectrum of projects and enjoy learning new technologies and frameworks to explore this ever-evolving field. I'm very hyperactive, so I thrive on both the logical aspects of a project and the hands-on process of creating, from research to designing and building or coding things.
 
 * 🌍  I'm based in Mexico City 🇲🇽
 * ✉️  You can contact me at [luis.fragoso@tookul.mx](mailto:luis.fragoso@tookul.mx)
