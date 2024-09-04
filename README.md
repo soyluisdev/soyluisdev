@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luis
 ============================================================================================================================
 
-Industrial/poduct designer & developer
+Designer & developer
 --------------------------------------
 
-Hi, nice to meet you! I'm an industrial designer and tech enthusiast.
+Hi, welcome!
 
 * 🌍  I'm based in Mexico City 🇲🇽
 * ✉️  You can contact me at [luis.fragoso@tookul.mx](mailto:luis.fragoso@tookul.mx)
