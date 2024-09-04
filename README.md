@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Designer & developer
 --------------------------------------
 
-Hi, welcome!
+Welcome!
 
 * 🌍  I'm based in Mexico City 🇲🇽
 * ✉️  You can contact me at [luis.fragoso@tookul.mx](mailto:luis.fragoso@tookul.mx)
