@@ -9,7 +9,7 @@ Welcome!
 * ✉️  You can contact me at [luis.fragoso@tookul.mx](mailto:luis.fragoso@tookul.mx)
 * 🚀  I'm currently working on [Tookul Mx](http://tookul.mx)
 * 🧠  I'm learning Swift & Swift UI
-* 🤝  I'm open to collaborating on Hardware, software, and web-based applications.
+* 🤝  I'm open to collaborating on hardware, software, and web-based applications.
 
 ### Skills
 
