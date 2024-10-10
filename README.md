@@ -6,7 +6,6 @@ Designer & developer
 
 Welcome!
 
-* 🌍  I'm based in Mexico City 🇲🇽
 * ✉️  You can contact me at [luis.fragoso@tookul.mx](mailto:luis.fragoso@tookul.mx)
 * 🚀  I'm currently working on [Tookul Mx](http://tookul.mx)
 * 🧠  I'm learning Swift & Swift UI
