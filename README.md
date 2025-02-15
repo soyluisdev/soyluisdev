@@ -6,7 +6,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 Welcome!
 
-* ✉️  You can contact me at [luis.fragoso@tookul.mx](mailto:luis.fragoso@tookul.mx)
+* ✉️  You can contact me at [luis.fragoso@tookul.mx](mailto:hello@imaluis.com)
 * 🚀  I'm currently working on [Tookul Mx](http://tookul.mx)
 * 🧠  I'm learning Swift & Swift UI
 * 🤝  I'm open to collaborating on hardware, software, and web-based applications.
