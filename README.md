@@ -3,7 +3,7 @@ Hi, I’m Luis 👋
 I design and build digital products that connect hardware, software, and the web.
 - **Location**: Germany  
 - **Email**: [hello@imaluis.com](mailto:hello@imaluis.com)  
-- **Interests**: Product design, embedded systems, and delightful user experiences  
+- **Interests**: Product design, embedded systems, and user experiences  
 - **Learning**: Swift & SwiftUI  
 - **Open to**: Collaborations on hardware, software, and web-based applications  
 ---
