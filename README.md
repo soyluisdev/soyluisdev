@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Luis 👋</h1>
+<h1 align="center">Hi, I’m Luis</h1>
 <h3 align="center">I design and build digital products that connect hardware, software, and the web.</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 - 🌍 **Location**: Germany
 - 🎯 **Interests**: Product design, embedded systems, and user experiences
 - 🚀 **Learning**: Swift & SwiftUI
